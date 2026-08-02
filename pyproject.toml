@@ -1,0 +1,20 @@
+[project]
+name = "pmgr-cli"
+version = "1.0.0"
+description = "A secure, file-based, single-user CLI password manager"
+requires-python = ">=3.9"
+dependencies = [
+    "cryptography>=41.0",
+    "click>=8.1",
+    "rich>=13.0",
+]
+
+[project.scripts]
+pmgr = "pmgr:cli"
+
+[tool.setuptools]
+py-modules = ["pmgr"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
