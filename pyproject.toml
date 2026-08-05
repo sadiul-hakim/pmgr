@@ -12,8 +12,11 @@ dependencies = [
 [project.scripts]
 pmgr = "pmgr:cli"
 
+[tool.setuptools.packages.find]
+where = ["src"]
+
 [tool.setuptools]
-py-modules = ["pmgr"]
+package-dir = {"" = "src"}
 
 [build-system]
 requires = ["setuptools>=61.0"]
