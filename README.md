@@ -310,3 +310,9 @@ Because the vault format is identical everywhere, you can:
 - Loss of the master password itself (no recovery — this is intentional)
 
 This is a personal, single-user tool. It's built for people managing their own credentials responsibly, not as a substitute for enterprise credential management or multi-user access control.
+
+## License
+
+Copyright (c) 2026 Sadi ul Hakim
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
