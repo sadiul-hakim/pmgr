@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pmgr_logo.svg" alt="pmgr logo" width="300"/>
+  <img src="assets/pmgr_logo.svg" alt="pmgr logo" width="300"/>
 </p>
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
