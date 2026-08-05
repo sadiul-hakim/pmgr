@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="pmgr logo" width="300"/>
+</p>
+
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20Termux-lightgrey.svg)
