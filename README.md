@@ -1,3 +1,7 @@
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20Termux-lightgrey.svg)
+
 # pmgr — Secure CLI Password Manager
 
 **A single-user, file-based, encrypted password manager for the terminal.**
